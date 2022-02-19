@@ -15,7 +15,7 @@ import org.testng.annotations.AfterMethod;
 
 public class LoginTest {
   
-	//data driven (framework)+ page object model is pattern or approach - framework
+	//data driven (framework)+ page object model is pattern or approach =  framework
 	
 	WebDriver driver;
 	LoginPage lp = new LoginPage();
